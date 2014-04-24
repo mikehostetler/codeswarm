@@ -1,0 +1,11 @@
+node_modules/
+builds/
+logs/
+temp/
+config.json
+.sessions
+/deploy_key
+npm-debug.log
+.tmp
+.vagrant
+.DS_Store
