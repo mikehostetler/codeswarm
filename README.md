@@ -96,9 +96,9 @@ The user must logout and login in order to get the privileges.
 
 We'd like to thank the sponsors of this project for the generous support.
 
-* (Microsoft Internet Explorer)[http://modern.ie]
-* (appendTo)[http://appendTo.com]
-* (Code Summit)[http://codesummit.com]
+* [Microsoft Internet Explorer](http://modern.ie)
+* [appendTo](http://appendTo.com)
+* [Code Summit](http://codesummit.com)
 
 ## License Information
 
